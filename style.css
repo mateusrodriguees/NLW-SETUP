@@ -66,7 +66,10 @@ input:checked {
   gap: 24px;
   margin-top: 60px;
 }
-
+.img-habits {
+  width: 24px;
+  height: 24px;
+}
 .habit {
   width: 64px;
   height: 64px;
